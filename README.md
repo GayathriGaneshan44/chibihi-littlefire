@@ -9,4 +9,4 @@ A and D and Left and Right arrow for moving left and right|| Space bar for jumpi
 
 ![Play screen](https://github.com/GayathriGaneshan44/chibihi-littlefire/blob/main/screenshots/enemyfire.png)
 
-![Credits](https://github.com/GayathriGaneshan44/chibihi-littlefire/blob/main/screenshots/enemyfire.png)
+![Credits](https://github.com/GayathriGaneshan44/chibihi-littlefire/blob/main/screenshots/ending%20and%20credits.png)
